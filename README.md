@@ -4,3 +4,6 @@ Aplikasi ini adalah aplikasi kalkulator sederhana yang dilengkapi dengan fitur p
 Fitur ini memungkinkan pengguna untuk menyembunyikan file atau dokumen penting di dalam aplikasi kalkulator.
 
 (not done Project)
+
+nunggu beli komputer / uprgrade laptop
+android studio berat euy 😓
